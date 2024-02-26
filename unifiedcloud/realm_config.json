@@ -3,5 +3,6 @@
     "config_version": 20210101,
     "name": "UnifiedCloud",
     "provider_region": "aws-us-east-1",
-    "deployment_model": "GLOBAL"
+    "deployment_model": "GLOBAL",
+    "environment": "production"
 }
