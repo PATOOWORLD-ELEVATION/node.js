@@ -73,6 +73,8 @@
     "@storybook/addon-links": "^7.6.0",
     "@storybook/blocks": "^7.5.3",
     "@storybook/nextjs": "^7.5.3",
+    "@storybook/react": "^7.5.3",
+    "@storybook/test-runner": "^0.16.0",
     "snyk-upgrade-e27c484e5ec6779c3a313e9ffa756188
     "@storybook/react": "^7.6.0",
     "@storybook/test-runner": "^0.15.2",
