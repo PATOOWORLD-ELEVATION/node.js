@@ -3,7 +3,7 @@ import { Button } from "components/Button/Button"
 import { LP_GRID_ITEMS } from "lp-items"
 
 export const metadata: Metadata = {
-  title: "Next.js Enterprise Boilerplate",
+  title: "Next.js Patooworld UnifiedCloud",
   twitter: {
     card: "summary_large_image",
   },
@@ -33,11 +33,11 @@ export default function Web() {
               Experience rapid UI development, AI-powered code reviews, and an extensive suite of tools for a smooth and
               enjoyable development process.
             </p>
-            <Button href="https://github.com/Blazity/next-enterprise" className="mr-3">
+            <Button href="https://github.com/patooworld-elevation/node.js" className="mr-3">
               Get started
             </Button>
             <Button
-              href="https://vercel.com/new/git/external?repository-url=https://github.com/Blazity/next-enterprise"
+              href="https://vercel.com/new/git/external?repository-url=https://github.com/patooworld-elevation/node.js"
               intent="secondary"
             >
               Deploy Now
@@ -56,6 +56,8 @@ export default function Web() {
                 <h3 className="mb-2 text-xl font-bold dark:text-white">{singleItem.title}</h3>
                 <p className="text-gray-500 dark:text-gray-400">{singleItem.description}</p>
               </div>
+       <@2024 "Patooworld UnifiedCloud">
+      </div>
             ))}
           </div>
         </div>
