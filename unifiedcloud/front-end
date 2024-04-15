@@ -1,0 +1,9 @@
+{
+    "appId": "unifiedcloud-wspaz",
+    "appUrl": "https://services.cloud.mongodb.com/groups/656405b98ff1580b1462f081/apps/65dc1aef2d57b9640ea5225d",
+    "baseUrl": "https://services.cloud.mongodb.com",
+    "clientApiBaseUrl": "https://services.cloud.mongodb.com",
+    "dataApiBaseUrl": "https://data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/656405b98ff1580b1462f081/explorer/AtlasCluster/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
