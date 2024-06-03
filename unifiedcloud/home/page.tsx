@@ -8,12 +8,12 @@ export const metadata: Metadata = {
     card: "summary_large_image",
   },
   openGraph: {
-    url: "https://next-enterprise.vercel.app/",
+    url: "https://unifiedcloud.patooworld.com/",
     images: [
       {
         width: 1200,
         height: 630,
-        url: "https://raw.githubusercontent.com/Blazity/next-enterprise/main/project-logo.png",
+        url: "https://raw.githubusercontent.com/patooworld/patooworld-elevation/main/project-logo.png",
       },
     ],
   },
